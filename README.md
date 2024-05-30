@@ -1,1 +1,1 @@
-## End-to-End-StudentPerformance-MLproject
+## End-to-End-StudentPerformance-MLProject
